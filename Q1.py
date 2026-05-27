@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 cost_price = float(input("Enter Cost Price: "))
 selling_price = float(input("Enter Selling Price: "))
 
@@ -16,7 +16,6 @@ elif cost_price > selling_price:
     print("Loss =", loss)
     print("Loss Percentage =", loss_percentage, "%")
 
-=======
 # Taken cost prise input to the user 
 cost_price = float(input("Enter Cost Price: "))
 
@@ -50,6 +49,6 @@ elif cost_price > selling_price:
     print("Loss Percentage =", loss_percentage,"%")
 
 # if both are equal 
->>>>>>> 859d2bf5147e51ce45ddc0e9ca1f365c187b3347
+# >>>>>>> 859d2bf5147e51ce45ddc0e9ca1f365c187b3347
 else:
     print("No Profit No Loss")
